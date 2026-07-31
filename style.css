@@ -1,0 +1,20 @@
+* {
+    text-decoration: underline;
+}
+
+body {
+    /* background-image: url('goku.jfif'); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* background-size: cover; */
+    background-attachment: fixed;
+}
+
+p {
+    color: #a9a9a9;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
